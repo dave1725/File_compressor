@@ -10,8 +10,9 @@ git clone https://github.com/dave1725/File_compressor.git
 
 ## Step2 : 
 Compile the project source file using g++ or any compiler
-Make sure MingW is installed for windows and OSX. 
-For linus install g++.
+Make sure MingW is installed for windows and OSX.
+
+For linux install g++.
         apt-get install g++
         
 ## Step3 : 
