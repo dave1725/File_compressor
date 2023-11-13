@@ -20,4 +20,16 @@ For linux install g++.
 ## Step3 : 
 Finally! Run the project executable file.
 
+# Members
+Krish Nariya
+Aakarsh Lohani
+Piyusha Mukherjee
+Nivedha Sriram
+Priyam Kotnala
+Dave Meshak
+
+# License
+This project is licensed under MIT license - Seethe LICENSE file for details.
+
+
 
