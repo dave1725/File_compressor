@@ -1,6 +1,7 @@
-//Project Title : 
-//To perform Lossless compression and decompression on a text file
-//Approach : Using Huffman encoding algorithm
+/*
+Project Title : To perform Lossless compression and decompression on a text file
+Approach : Using Huffman encoding algorithm
+*/
 
 #include <bits/stdc++.h>
 using namespace std;
@@ -18,8 +19,7 @@ struct Node{
 
 
 
-
-
+//driver code
 int main(){
 	//variables
 	int ch;
@@ -43,7 +43,6 @@ int main(){
 		fstream inp_file; //file handler
 		inp_file.open(f_name,ios::in);
 
-		
 	}	
 	return 0;
 }
