@@ -21,15 +21,15 @@ For linux install g++.
 Finally! Run the project executable file.
 
 # Members
-Krish Nariya
-Aakarsh Lohani
-Piyusha Mukherjee
-Nivedha Sriram
-Priyam Kotnala
-Dave Meshak
++ Krish Nariya
++ Aakarsh Lohani
++ Piyusha Mukherjee
++ Nivedha Sriram
++ Priyam Kotnala
++ Dave Meshak
 
 # License
-This project is licensed under MIT license - Seethe LICENSE file for details.
+This project is licensed under MIT license - Kindly refer the LICENSE file for details.
 
 
 
