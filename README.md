@@ -12,10 +12,29 @@ Clone the repository(make sure git is installed)
 ## Step2 : 
 Compile the project source file using g++ or any compiler
 Make sure MingW is installed for windows and OSX.
-
++ For LINUX
 For linux install g++.
         
         apt-get install g++
+  
+Compiling the project.
+
+        g++ project.cpp - o project
+
+Executing the project.
+
+        ./project
+
++ For Windows
+Install MinGW from https://sourceforge.net/projects/mingw/
+
+Compiling the project.
+
+        g++ project.cpp -o project
+
+Executing the project.
+
+        ./project
         
 ## Step3 : 
 Finally! Run the project executable file.
