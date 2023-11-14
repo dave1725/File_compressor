@@ -11,11 +11,28 @@ struct Node{
 	char character;
 	int frequency;
 	struct Node *left,*right;
+
+	Node(char chr,int f) : character(chr),frequency(f) {};
 };
 //END
 
+//implemention of Min-Heap with array to sort the unique characters according to freq
+//Author: Krish Nariya
+//Min-Heap node Structure
+struct mNode{ 			//min-heap node
+	int size;
+	vector<Node*> arr;
+};
 
-//implemention of Min-Heap to sort the unique characters according to freq
+struct mNode* buildMinHeap(char arr[],int freq[],int unique_size){
+
+}
+
+struct mNode* extractMin(){
+
+}
+
+//
 
 
 
@@ -39,7 +56,7 @@ int main(){
 	if(ch==1){
 		cout<<"Enter Filename :";
 		cin>>f_name;
-
+		//input file handling
 		fstream inp_file; //file handler
 		inp_file.open(f_name,ios::in);
 
