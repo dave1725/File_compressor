@@ -1,5 +1,5 @@
 //Project Title : File Compression
-//Data : 17/11/23
+//Date : 17/11/23
 #include <bits/stdc++.h>
 using namespace std;
 
