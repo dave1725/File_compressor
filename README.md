@@ -57,7 +57,7 @@ Executing the project.
 ## Step3 : 
 Finally! Run the project executable file.
 
-# Members
+# Authors
 + Krish Nariya
 + Aakarsh Lohani
 + Piyusha Mukherjee
